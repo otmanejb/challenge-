@@ -18,3 +18,5 @@ Some inspiration could be found here https://twitter.com/TotemAlbert1er/status/1
 
 The link of the visualization part must be provided in the framacalc file (cf. moodle).
 
+# Mybinder
+https://mybinder.org/v2/gh/otmanejb/challenge-/main?urlpath=https%3A%2F%2Fgithub.com%2Fotmanejb%2Fchallenge-%2Fblob%2Fmain%2FVisualization%2Fvisualization.ipynb
