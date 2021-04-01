@@ -18,4 +18,5 @@ Some inspiration could be found here https://twitter.com/TotemAlbert1er/status/1
 
 The link of the visualization part must be provided in the framacalc file (cf. moodle).
 
-# Mybinder
+# Gif hyperlink
+https://giphy.com/gifs/wrdRBkkA3CbaL37GD9
