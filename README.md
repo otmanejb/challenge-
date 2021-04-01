@@ -20,3 +20,5 @@ The link of the visualization part must be provided in the framacalc file (cf. m
 
 # Gif hyperlink
 https://giphy.com/gifs/wrdRBkkA3CbaL37GD9
+
+https://mybinder.org/v2/gh/otmanejb/challenge-/main?filepath=https%3A%2F%2Fgithub.com%2Fotmanejb%2Fchallenge-%2Fblob%2Fmain%2FVisualization%2Fvisualization.ipynb
