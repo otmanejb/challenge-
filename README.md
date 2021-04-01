@@ -17,3 +17,6 @@ For this part, you will use the data from http://data.montpellier3m.fr/dataset/c
 Some inspiration could be found here https://twitter.com/TotemAlbert1er/status/1363829767208906755 if needed.
 
 The link of the visualization part must be provided in the framacalc file (cf. moodle).
+
+# Mybinder link 
+https://mybinder.org/v2/gh/otmanejb/challenge-/main?filepath=https%3A%2F%2Fgithub.com%2Fotmanejb%2Fchallenge-%2Fblob%2Fmain%2FVisualization%2Fvisualization.ipynb
